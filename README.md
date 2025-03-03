@@ -17,5 +17,5 @@ We welcome contributions! Please submit a pull request or open an issue to discu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
+
 Telegram | [dogewhiz](https://t.me/dogewhiz)
----
